@@ -88,4 +88,10 @@ marginparwidth=1.75cm]{geometry}
 \node[below=of n4]  {Step 2: Testing};
     \end{mytikzpicture}
 
+\begin{figure}
+\centering
+\includegraphics[width=0.3\textwidth]{frog.jpg}
+\caption{\label{fig:frog}This frog was uploaded via the file-tree menu.}
+\end{figure}
+
 \end{document}
